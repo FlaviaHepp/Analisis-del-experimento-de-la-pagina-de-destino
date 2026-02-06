@@ -88,7 +88,5 @@ El conjunto de datos está basado en un ejemplo del libro
 
 - A/B testing con mayor tamaño muestral
 - Métricas adicionales (conversion rate, bounce rate)
-
-Pruebas no paramétricas alternativas (Kruskal-Wallis)
-
-Dashboard interactivo para stakeholders
+- Pruebas no paramétricas alternativas (Kruskal-Wallis)
+- Dashboard interactivo para stakeholders
